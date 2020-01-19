@@ -15,6 +15,6 @@ This is the website of the course Computational Dialogue Modelling, part of the 
 - **Schedule and rooms:** [Datanose](https://datanose.nl/#course[81231])
 
 
-### Content, Structure, and Assessment
+## Content, Structure, and Assessment
 
-### Registration
+## Registration
