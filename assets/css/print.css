@@ -50,12 +50,12 @@ body {
 
 a {
   font-weight: bold;
-  color: #d5000d;
+  color: black;
 }
 
 header {
   padding-top: 35px;
-  padding-bottom: 0px;
+  padding-bottom: 10px;
 }
 
 header h1 {
