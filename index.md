@@ -13,7 +13,7 @@ The course will be research-oriented and project-based, and it will involve read
   - Deep understanding of the theoretical and empirical basis of current computational models and their limitations
   - Practice in carrying out novel research related to dialogue modelling
 
-Although we will discuss current NLP and machine learning methods applied to dialogue, and you will have the chance to work with these methods in the final project, the goal of the course is *not* to teach you how to build dialogue systems or chatbots.
+Although we will discuss current NLP and machine learning methods applied to dialogue -- and you will have the chance to work with these methods in the final project if you have the right background -- the goal of the course is *not* to teach you how to build dialogue systems or chatbots.
 
 #### Assessment
 
