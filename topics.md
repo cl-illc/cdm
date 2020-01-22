@@ -5,7 +5,7 @@ title: Computational<br> Dialogue Modelling
 
 # Topics covered in the course
 
-(*Tentative and subject to change. The list here does not necessarily reflect the order in which the different topics will be covered in class.*)
+(*This overview of topics is tentative and subject to change, and does not necessarily reflect the order in which the different topics will be covered in class.*)
 
 
 
