@@ -5,9 +5,7 @@ title: Computational<br> Dialogue Modelling
 
 # Topics covered in the course
 
-Tentative and subject to change
-
-<br>
+> Tentative and subject to change
 
 ### Types of dialogue and dialogue datasets
 
@@ -16,7 +14,7 @@ What type of language use can be considered "dialogue"? Key distinctions: Open c
 
 #### Background literature
 
-* Serban et al. A Survey of Available Corpora for Building Data-Driven Dialogue Systems, *Dialogue and Discourse*, 2018. | [paper](http://dad.uni-bielefeld.de/index.php/dad/article/view/3690/3616) | [website](https://breakend.github.io/DialogDatasets/) |
+* Serban et al. A Survey of Available Corpora for Building Data-Driven Dialogue Systems, *Dialogue and Discourse*, 2018. [[paper](http://dad.uni-bielefeld.de/index.php/dad/article/view/3690/3616)]  [[website](https://breakend.github.io/DialogDatasets/)]
 
 
 
