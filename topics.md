@@ -5,7 +5,9 @@ title: Computational<br> Dialogue Modelling
 
 # Topics covered in the course
 
-> Tentative and subject to change
+(*Tentative and subject to change*)
+
+<br>
 
 ### Types of dialogue and dialogue datasets
 
