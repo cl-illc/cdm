@@ -1,3 +1,5 @@
+> *site under construction*
+
 **Lecturer:** [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/)<br>
 **Teaching assistants:** [Mario Giulianelli](http://gmario.eu) and [Ece Takmaz](https://ecekt.github.io)<br>
 **Schedule and rooms:** [Datanose](https://datanose.nl/#course[81231])
