@@ -46,7 +46,7 @@ What type of language use can be considered "dialogue"? Key distinctions: Open c
 
 * Grice, Logic and Conversation, in *Syntax and Semantics* (Cole et al. editors), 1975. [(PDF)[https://www.ucl.ac.uk/ls/studypacks/Grice-Logic.pdf]]
 * Frank & Goodman, Predicting Pragmatic Reasoning in Language Games, *Science*, vol. 336, 2012.
-* G. Scontras, M. H. Tessler, and M. Franke (2018). Probabilistic language understanding: An introduction to the Rational Speech Act framework. [(website)[https://www.problang.org])
+* G. Scontras, M. H. Tessler, and M. Franke (2018). Probabilistic language understanding: An introduction to the Rational Speech Act framework. [[website](https://www.problang.org))
 
 <hr> 
 
