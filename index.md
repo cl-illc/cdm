@@ -27,3 +27,6 @@ Besides background literature (often covering classic work -- see [topics](https
 
 During the second part of the course, you will work on a small-scale research project of your choice, individually or in a small group. Students will have the choice between different types of projects: for example, implementing computational models, analysing the behviour of an existing model, doing a more empirical study based on data analysis, or writing a detailed research proposal. The final deliverable will be a short report in the form of a conference-style paper. The exact contribution of the projec to the final grade is yet to be decided, but it will be at least 50%.
 
+#### Registration
+
+This course can accommodate a maximum of 30 students. To avoid having to put a cap on the number of registrations (and thus to select on a first-come first-serve basis), students will be accepted into the course on the basis of motivation and technical background. If interested, please register in the usual manner. You will then be invited to take part in the selection process well before the start of the course.
