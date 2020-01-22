@@ -23,5 +23,5 @@ What type of language use can be considered "dialogue"? Key distinctions: Open c
 #### Background literature
 
 * Austin, *How to do Things with Words*, Oxford University Press, 1962.
-* Chapter 5 “Speech Acts” in Levinson, *Pragmatics*, Cambridge University Press, 1983.
-* Chapter 5 “Communicative Acts” in Clark, *Using Language*, Cambridge University Press, 1996.
+* Levinson, chapter 5 “Speech Acts” in *Pragmatics*, Cambridge University Press, 1983.
+* Clark, chapter 5 “Communicative Acts” in *Using Language*, Cambridge University Press, 1996.
