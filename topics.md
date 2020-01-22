@@ -36,7 +36,7 @@ What type of language use can be considered "dialogue"? Key distinctions: Open c
 #### Background literature
 
 * Clark & Schaefer, Contributing to Discourse, *Cognitive Science*, 13: 259-294, 1986.
-* Clark, chapter 7 “Joint projects” and chapter 8 "Grounding” in *Using Language*, Cambridge University Press, 1996.
+* Clark, chapter 7 “Joint projects” and chapter 8 "Grounding” in *Using Language*, CUP, 1996.
 
 <hr> 
 
@@ -44,7 +44,7 @@ What type of language use can be considered "dialogue"? Key distinctions: Open c
 
 #### Background literature
 
-* Grice, Logic and Conversation, in *Syntax and Semantics* (Cole et al. editors), 1975. [(PDF)[https://www.ucl.ac.uk/ls/studypacks/Grice-Logic.pdf]]
+* Grice, Logic and Conversation, in *Syntax and Semantics* (Cole et al. eds), 1975. [[PDF]](https://www.ucl.ac.uk/ls/studypacks/Grice-Logic.pdf)
 * Frank & Goodman, Predicting Pragmatic Reasoning in Language Games, *Science*, vol. 336, 2012.
 * G. Scontras, M. H. Tessler, and M. Franke (2018). Probabilistic language understanding: An introduction to the Rational Speech Act framework. [[website]](https://www.problang.org)
 
