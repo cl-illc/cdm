@@ -9,7 +9,7 @@ Tentative and subject to change
 
 <br>
 
-# Types of dialogue and dialogue datasets
+### Types of dialogue and dialogue datasets
 
 What type of language use can be considered "dialogue"? Key distinctions: Open conversation vs task-oriented; spoken vs written; synchronous vs asynchronous; symmetric vs asymmetric (roles, knowledge, ability...).
 
