@@ -5,7 +5,7 @@
 **Schedule and rooms:** [Datanose](https://datanose.nl/#course[81231])
 
 
-Conversation or *dialogue* is the most natural way in which we humans use language, and arguably the holy grail of language-enabled AI systems. With machine learning advancing at such a rapid pace, we now have powerful tools for modelling interacting agents. Yet, to model human-like conversational abilities remains remarkably difficult. This course will examine what makes dialogue so challanging, delving into classic and contemporary research in linguistics, cognitive science, NLP and artificial intelligence. 
+Conversation or *dialogue* is the most natural way in which we humans use language, and arguably the holy grail of language-enabled AI systems. With machine learning advancing at such a rapid pace, we now have powerful tools for modelling interacting agents. Yet, to model human-like conversational abilities remains remarkably difficult. This course will examine what makes dialogue so challenging, delving into classic and contemporary research in linguistics, cognitive science, NLP and artificial intelligence. 
 
 #### Learning Objectives
 
