@@ -57,8 +57,8 @@ What type of language use can be considered "dialogue"? Key distinctions: Open c
 
 #### Background literature
 
-- Brennan & Clark, Conceptual pacts and lexical choice in conversation. *Journal of Experimental Psychoogy*, 22:1482–1493, 1996. [[PDF]](http://www.psychology.sunysb.edu/sbrennan-/papers/b%26c.pdf)
-- Pickering & Garrod, Toward a mechanistic psychology of dialogue. *Behavioral and Brain Sciences*, 27:169-225, 2004.[[PDF]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/83442BA495E0D5F81BDB615E4109DBD2/S0140525X04000056a.pdf/div-class-title-toward-a-mechanistic-psychology-of-dialogue-div.pdf)
+- Brennan & Clark, Conceptual pacts and lexical choice in conversation. *Journal of Experimental Psychology*, 22:1482–1493, 1996. [[PDF]](http://www.psychology.sunysb.edu/sbrennan-/papers/b%26c.pdf)
+- Pickering & Garrod, Towards a mechanistic psychology of dialogue. *Behavioral and Brain Sciences*, 27:169-225, 2004.[[PDF]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/83442BA495E0D5F81BDB615E4109DBD2/S0140525X04000056a.pdf/div-class-title-toward-a-mechanistic-psychology-of-dialogue-div.pdf)
 - Brown-Schmidt et al., People as Contexts in Conversation, in *The Psychology of Learning and Motivation* (pp. 59–99). Academic Press: Elsevier Inc. [[PDF]](http://web.mit.edu/ryskin/www/pdfs/Brown-Schmidt%20-%20Psych%20of%20Learning%20and%20Motivation.pdf)
 - Giles, Communication accommodation theory [[website]](https://en.wikipedia.org/wiki/Communication_accommodation_theory)
 
