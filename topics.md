@@ -79,5 +79,6 @@ What type of language use can be considered "dialogue"? Key distinctions: Open c
 #### Background literature
 
 * Bernardi et al. Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures, *Journal of Artificial Intelligence Research*, vol. 55, 2016. [[PDF]](https://www.jair.org/index.php/jair/article/view/10985)
+* Ju et al., All-in-one Image-Grounded Conversational Agents, 2020, ArXiv preprint [[PDF](https://arxiv.org/pdf/1912.12394.pdf)]
 
 <hr>
