@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Computational<br> Dialogue Modelling
 ---
 
 # Topics covered in the course
