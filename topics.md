@@ -35,8 +35,8 @@ What type of language use can be considered "dialogue"? Key distinctions: Open c
 
 #### Background literature
 
-* Clark & Schaefer, Contributing to Discourse, *Cognitive Science*, 13: 259-294, 1986.
-* Clark, chapter 7 “Joint projects” and chapter 8 "Grounding” in *Using Language*, CUP, 1996.
+* Clark & Schaefer, Contributing to Discourse, *Cognitive Science*, 13: 259-294, 1989. [[PDF](https://web.stanford.edu/~clark/1980s/Clark,%20H.H.%20_%20Schaefer,%20E.F.%20_Contributing%20to%20discourse_%201989.pdf)]
+* Clark, chapter 7 "Joint projects" and chapter 8 "Grounding" in *Using Language*, CUP, 1996.
 
 <hr> 
 
