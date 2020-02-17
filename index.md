@@ -31,8 +31,9 @@ During the second part of the course, you will work on a small-scale research pr
 
 This course can accommodate a maximum of 30 students. To avoid having to put a cap on the number of registrations (and thus to select on a first-come first-serve basis), students will be accepted into the course on the basis of motivation and technical background. If interested, please register in the usual manner. You will then be invited to take part in the selection process well before the start of the course.
 
-**Updates:** 
-  - 23 Januray 2020: all registered students have received an email with instructions for how to prepared for the selection process.
-  - 28 January 2020: All registered students have been invited to fill in the selection questionnaire. The deadline to submit the responses in 13:00 on the 31st of January. 
-  - 4 February 2020: The selection has been made and all students were informed of the outcome.
+Updates:
+
+  - 23 Januray 2020: all registered students have received an email with instructions for how to prepare for the selection process.
+  - 28 January 2020: All registered students have been invited to fill in the selection questionnaire. The deadline to submit the responses is 13:00 on the 31st of January. 
+  - 4 February 2020: The selection has been made and all students have been informed of the outcome.
   
