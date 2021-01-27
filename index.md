@@ -2,7 +2,7 @@
 
 **Lecturer:** [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/)<br>
 **Teaching assistants:** [Mario Giulianelli](http://gmario.eu) and [Ece Takmaz](https://ecekt.github.io)<br>
-**Schedule and rooms:** [Datanose](https://datanose.nl/#course[89352])
+**Schedule and rooms:** [Datanose](https://datanose.nl/#course[89352]) (note that the schedule may still change)
 
 
 Conversation or *dialogue* is the most natural way in which we humans use language, and arguably the holy grail of language-enabled AI systems. With machine learning advancing at such a rapid pace, we now have powerful tools for modelling interacting agents. Yet, to model human-like conversational abilities remains remarkably difficult. This course will examine what makes dialogue so challenging, delving into classic and contemporary research in linguistics, cognitive science, NLP and AI. 
