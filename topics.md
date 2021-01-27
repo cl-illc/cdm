@@ -67,7 +67,7 @@ What type of language use can be considered "dialogue"? Key distinctions: Open c
 
 #### Background literature
 
-* - Micheal McTear, Conversational AI: Dialogue System, Conversational Agents, and Chatbots, Morgan & Claypool Publishers, 2020. [[eBook available at the UvA online library](https://lib.uva.nl/)
+* Micheal McTear, Conversational AI: Dialogue System, Conversational Agents, and Chatbots, Morgan & Claypool Publishers, 2020. [[eBook available at the UvA online library](https://lib.uva.nl/)
 * Martin & Jurafsky, Dialogue Systems and Chatbots, chapter 24 in *Speech and Language Processing*, 3rd edition, 2020. [[PDF]](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 * Serban et al. A Survey of Available Corpora for Building Data-Driven Dialogue Systems, *Dialogue and Discourse*, 2018. [[PDF]](http://dad.uni-bielefeld.de/index.php/dad/article/view/3690/3616)  [[website]](https://breakend.github.io/DialogDatasets/)
 * Chen, Celikyilmaz, and Hakkani-Tur, Deep Learning for Dialogue Systems / Conversational AI. Tutorial at COLING-2018 [[abstract]](https://www.aclweb.org/anthology/C18-3006.pdf) [[Website](https://sites.google.com/view/deepdial/) with all versions of this tutorial at different recent conferences]
