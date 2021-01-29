@@ -34,6 +34,7 @@ This course can accommodate a maximum of 30 students. To avoid having to put a c
 Updates:
 
   - 27 Januray 2021: All registered students have received an email with instructions for how to prepare for the selection process.
+  - 29 January 2021: All registered students have been invited to fill in the selection questionnaire. The deadline to submit the responses is 13:00 on the 5th of February.
 
 <!-- 2020
   - 23 Januray 2020: all registered students have received an email with instructions for how to prepare for the selection process.
